@@ -1,0 +1,13 @@
+#include<iostream.h>
+
+void main()
+{
+float dolar,rupiah;
+
+cout<<"Masukkan nominal rupiah = \n";
+cin>>rupiah;
+
+dolar = rupiah / 15000;
+cout<<"Konversi ke dollar = \n"<<dolar;
+
+}
